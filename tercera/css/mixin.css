@@ -1,0 +1,37 @@
+.news-cards
+{background-color: rgb(59, 141, 228);}
+.title{
+    padding:10px ;
+    width: 800px;
+    height: 400px;
+}
+
+    .cuadro1{
+        background-color: rgb(227, 75, 75);
+        width: 800px;
+        height: 400px;
+        margin-top : 5px;
+        padding: 10px;
+    }
+    .cuadro-2{
+        background-color: rgba(140, 14, 14, 0.429);
+        width: 800px;
+        height: 400px;;
+        margin-top : 5px;
+        padding: 10px;
+    }
+        .cuadro-3{
+            background-color: rgb(219, 7, 7);
+            width: 800px;
+            height: 400px;
+            margin-top : 5px;
+            padding: 10px;
+        }
+            .cuadro-4{
+                background-color: rgb(228, 73, 73);
+                width: 800px;
+                height: 400px;
+                margin-top : 5px;
+                padding: 10px;
+            }
+            

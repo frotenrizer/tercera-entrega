@@ -1,0 +1,14 @@
+.footer
+{$redes: ( /*Declaramos nuestro mapa*/
+    twitter: #55acee,
+    facebook:  #3a5795,
+    twich: #C25E30
+    ); 
+    /*Creamos el bucle */
+    @each $red, $color in $redes {
+    .btn--#{$red} {
+    background-color:rgb(234, 13, 54);
+    }
+    }
+    }
+
